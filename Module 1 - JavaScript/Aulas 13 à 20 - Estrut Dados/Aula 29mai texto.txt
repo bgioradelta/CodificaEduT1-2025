@@ -1,0 +1,1277 @@
+Ronan Gorski
+18:48
+Boa noite.
+Laura Narciso Peixoto
+18:48
+Boa noite
+Jéssica Sobreira
+18:48
+Boa noite!
+Augusta Giehl
+18:48
+boa noite
+vitor hugo fernandes
+18:48
+boa noite!!
+Diego Souza
+18:48
+boa noite
+Vous
+18:48
+Boa noite
+Rachel Dantas
+18:48
+Boa noitee
+Fabiana Santos de Oliveira
+18:49
+Boua noitchi
+Rodrigo Klug
+18:49
+Boa noite, frio pra caramba na serra gaúcha
+William José
+18:49
+boa noite
+Fabiana Santos de Oliveira
+18:49
+meu Deus ta todo mundo gripado
+Carolina Santos
+18:49
+boa noite
+Fabiana Santos de Oliveira
+18:49
+que isso
+Bianca Santos
+18:49
+boa noite
+Beatriz
+18:49
+Boa noite!!
+Fabiana Santos de Oliveira
+18:49
+delicia de frio
+vitor hugo fernandes
+18:49
+aqui minima de 9, ta maluco
+Lucas V. Ferreira
+18:49
+Boa noite para todos sem exceção
+Rodrigo Klug
+18:49
+Aqui marca 8 no Google, mas no meu termômetro tá em 6
+João Vicente Watanabe ẄẠƂƏ
+18:50
+Boa noite menos pro lucas
+João Marcelo Barros Baraldi
+18:50
+Boa noite!
+vitor hugo fernandes
+18:51
+aqui em canoas ta 10 professor, to no "lucro" kkkk
+Esdras Araújo
+18:51
+o famoso, "boa noite para todos, menos para alguns" kkkkkkk
+Vous
+18:51
+Começar cedo pra acabar cedo hehe
+Luis Ramires
+18:51
+Boa noite
+Pedro Lasta
+18:51
+Aqui ta 11 e eu tô de bermuda e manga curta.
+Sempre tem aquele cara quando tá frio.
+Rômulo Canto
+18:51
+Tá mais frio que Salvador: 27
+Cicero Romão
+18:51
+Boa noite
+Rachel Dantas
+18:52
+Animados ? pre sexta
+Lucas V. Ferreira
+18:52
+cansado
+Cicero Romão
+18:52
+Cansado
+Jéssica Sobreira
+18:52
+com frioooo
+Beatriz
+18:52
+congelando
+vitor hugo fernandes
+18:53
+frio demais kkkkk
+Rodrigo Lima
+18:53
+Rezando para o front
+Rachel Dantas
+18:53
+comecei o livro do ratinho kkkk
+akkakak
+o de algoritmo
+muito bom
+Vinicius Tenchini
+18:53
+Pior que eu estou lendo dois livros dois ratinhos
+Jackson Teixeira
+18:53
+Boa noite
+Vinicius Tenchini
+18:53
+Mauz e Entendendo Algoritmos
+Maus*
+Rachel Dantas
+18:53
+Dois ?
+Jackson Teixeira
+18:54
+front hj?
+Ronan Gorski
+18:54
+Eu comecei a ler o livro de handmaids tale agora que acabou a série fiquei curioso pelo livro kkk
+Lucas Arend Maciel
+18:54
+Prefiro backend
+Vinicius Tenchini
+18:54
+Igual a minha
+Muito bom o livro
+Esdras Araújo
+18:54
+uma TV hq?
+Lucas V. Ferreira
+18:54
+gibi
+Vinicius Tenchini
+18:55
+@Rachel dois ratinhos
+Cicero Romão
+18:55
+como tá estreita a tela
+Luis Fernando
+18:55
+Boa noite
+Vinicius Tenchini
+18:55
+Não sei se o dois foi pra mim
+Fabiana Santos de Oliveira
+18:55
+eu entendithe handmaid's tale kkk
+Rodrigo Santos
+18:55
+Jaques 
+Sobre o conteúdo de arvores é possível 2 nós serem "pais" de um outro nó ?
+Tipo, B e C ser "pai" de E?
+Ronan Gorski
+18:56
+@Fabiana, eu que comecei a ler o livro porque acabei a série e fiquei curioso pra saber as diferenças.
+Rachel Dantas
+18:57
+certo
+Ronan Gorski
+18:57
+A ordenação é por nível?
+Rachel Dantas
+19:00
+sim
+Matheus Koller
+19:00
+Dois == nao?
+Valter F.
+19:00
+ali faltou mais um ou dois "=="
+Lucas Arend Maciel
+19:00
+uma função que chama ela mesmo
+Rodrigo Santos
+19:01
+chamar a propria funçao ate chegar o caso base para solucionar o todo
+Matheus Koller
+19:01
+Conversa com ela mesma
+Vinicius Tenchini
+19:01
+Dividir um problema em subproblemas menores até atingir o caso base
+Thiago Castanho
+19:01
+quando ela chama a si msm
+Lucas Arend Maciel
+19:01
+Não
+Esdras Araújo
+19:01
+negativo
+Leandro Farias
+19:01
+Não
+Rachel Dantas
+19:01
+sim
+Lucas Arend Maciel
+19:01
+sim
+Jéssica Sobreira
+19:01
+sim
+Luis Ramires
+19:01
+sim
+Diego Souza
+19:01
+sim
+Rachel Dantas
+19:02
+sim, vai se encaixando
+Denize Mansoni Cordova
+19:02
+SIM, sim
+Giovana Alice
+19:02
+matryoshka
+Sim
+kkkkkk
+Pedro Lasta
+19:02
+Wine = Wine is not emulation
+Luiz henrique
+19:03
+PHP tambem é um né não?
+Wesley Campos
+19:04
+Kkkkk entendi, quando vc falou boneca russa eu não entendi, mas minha mãe tem uma (ou várias) na instante de casa
+Rachel Dantas
+19:06
+sim
+Ronan Gorski
+19:06
+somar até quando não o next = null?
+Rachel Dantas
+19:07
+sim
+Vinicius Tenchini
+19:07
+while(head && head.next) ?
+Rachel Dantas
+19:08
+sim
+Lucas Arend Maciel
+19:08
+sim
+Ronan Gorski
+19:09
+É tipo aquele exemplo de umas duas aulas atrás.
+Vinicius Tenchini
+19:09
+Professor, de forma geral recursividade tende a ter um desempenho pior em grande escala?
+Enzo Grigol
+19:09
+isso que tu fez é como se fosse uma call stack?
+Gabriel Piangers
+19:10
+Eu sempre evito usar recursividade, porque acho muito confuso. Tipo o DFS que tu ensinou na aula anterior eu fazia com um while e um stack.
+Vinicius Tenchini
+19:10
+@Enzo, tu entrou no grupo do whatsapp? Tu pediu o link lá no discord
+Rodrigo Santos
+19:10
+a complexidade da recursividade permanece a mesma independente do problema ?
+Enzo Grigol
+19:10
+Nao tinha visto vinicius obrigado por me avisar kk
+Vinicius Tenchini
+19:13
+Ele passa as ser filho do nó da esquerda?
+Se já tiver
+Rachel Dantas
+19:13
+esta passando o novo no e vendo se é ,maior ou menor e se tem ate achar o local dele
+sim
+Leandro Farias
+19:14
+sim
+Ronan Gorski
+19:14
+sim
+Jackson Teixeira
+19:14
+sim
+Ronan Gorski
+19:15
+nao
+Esdras Araújo
+19:15
+nn
+Rachel Dantas
+19:15
+sim
+Laura Narciso Peixoto
+19:15
+nao
+Vinicius Severo
+19:15
+nao
+Gabriel Piangers
+19:15
+kkkk
+Vinicius Tenchini
+19:15
+ta vazio
+Ronan Gorski
+19:15
+Ah tá, confuso kkk
+Vinicius Tenchini
+19:16
+Então ele tenta sempre colocar na esquerda, se estiver ocupado ele vira filho do nó anterior
+Rachel Dantas
+19:16
+sim
+Jackson Teixeira
+19:16
+sim
+oxi
+Ronan Gorski
+19:17
+Se fosse um seis ele colocaria do lado direito do cinco sendo o outro filho do 10?
+vitor hugo fernandes
+19:17
+chegou visita kkkk
+Rachel Dantas
+19:17
+No caso se o no nao for nula ele pega esse no e passa como paramentro e faz a comparacao novamente
+nulo
+Alef Gabriel Torres Strogulski
+19:17
+e se for > ?
+Rachel Dantas
+19:17
+ai vai fazer a logica ainda, Alef
+simmm
+Laura Narciso Peixoto
+19:17
+sim
+Alef Gabriel Torres Strogulski
+19:18
+pdc
+Ronan Gorski
+19:18
+Porque o três virou filho do cinco e não no mesmo nível?
+Rodrigo Santos
+19:18
+nao esta faltando atualizar o valor atual a cada interação ?
+nesse caso
+adicionamso um 5 que é menor que a raiz
+Ronan Gorski
+19:19
+E pode ter valor igual a algum já existente?
+Vinicius Tenchini
+19:19
+Aquelas árvore balanceadas é maneiro ver em ação
+Rodrigo Santos
+19:19
+se adicionar um 3 ele  vai ser descendente do 5 ou do 10 ?
+Esdras Araújo
+19:20
+nada vira  nova raiz, ele só vai definir o que vai ficar a esquerda do 10 ou a direita, certo?
+Ronan Gorski
+19:20
+E pode ter valor igual?
+Vinicius Tenchini
+19:21
+Não teve um critério para definir o root né? Só o primeiro elemento a ser inserido
+Lucas Zanata
+19:21
+10
+       /  \
+      5    15
+     / \   / \
+    3   7 12  20
+assim seria um exemplo?
+Alef Gabriel Torres Strogulski
+19:21
+q mao
+Vinicius Tenchini
+19:22
+n
+Rachel Dantas
+19:22
+na
+s
+Vinicius Tenchini
+19:22
+agrupa essa seleção do código pra mexer ele
+Ronan Gorski
+19:22
+Ele voltou pra raiz?
+Vinicius Tenchini
+19:22
+sim
+Laura Narciso Peixoto
+19:22
+sim
+Esdras Araújo
+19:23
+11 vai ficar a esquerda do 12
+Vinicius Tenchini
+19:23
+agora ele verifica se é menor de novo
+Rachel Dantas
+19:23
+sim
+Gabriel Piangers
+19:23
+n
+Vinicius Tenchini
+19:23
+sim
+Esdras Araújo
+19:23
+ss
+Breno Ribeiro
+19:23
+sim
+Laura Narciso Peixoto
+19:23
+sim
+Rachel Dantas
+19:23
+sim
+Vinicius Severo
+19:23
+hmmm
+Lucas Arend Maciel
+19:23
+sim
+Matheus Koller
+19:23
+Se inserir um 6, ele fica no mesmo nivel que o 3?
+Diego Souza
+19:23
+Sim
+Lucas Zanata
+19:23
+10
+       /  \
+      5    15
+     / \   / \
+    3   7 12  20
+assim seria um exemplo?
+Vinicius Tenchini
+19:24
+6
+Lucas Zanata
+19:24
+bugou as setinhas
+Luis Ramires
+19:24
+0
+Vinicius Tenchini
+19:24
+sim
+Vinicius Severo
+19:24
+s
+Rachel Dantas
+19:24
+6 vira filho do 5
+Jackson Teixeira
+19:24
+s
+Rachel Dantas
+19:24
+s
+Jackson Teixeira
+19:24
+n
+Vinicius Tenchini
+19:24
+n
+Vinicius Severo
+19:24
+n
+Rachel Dantas
+19:24
+kkkk
+Vinicius Tenchini
+19:25
+sim
+Jackson Teixeira
+19:25
+sim
+Rodrigo Santos
+19:25
+agr clareou a mente kkkkkkkkkkkkk
+Vinicius Tenchini
+19:25
+Ai professor tu é bom mesmo hein, já pensou em dar aula
+Rodrigo Santos
+19:25
+a direira do 12
+Matheus Koller
+19:25
+adiciona um 7 ai agora kkkkk
+Leandro Farias
+19:25
+do lado do 11
+Rachel Dantas
+19:25
+filho do 12 na direita
+Esdras Araújo
+19:25
+dfilho do 12
+Jackson Teixeira
+19:25
+pode repetir numero?
+Breno Ribeiro
+19:25
+direira 12
+Esdras Araújo
+19:25
+na direita
+Ronan Gorski
+19:25
+E se for tipo 8, vai criar um novo nivelw
+?
+Maria Eduarda Coelho
+19:25
+eu tinha entendido de outra forma, mas agr ta indo aos poucos kk
+Vinicius Tenchini
+19:25
+vai ficar a direita do 6
+Jackson Teixeira
+19:25
+s
+n
+Esdras Araújo
+19:26
+n
+Rodrigo Santos
+19:26
+ele vai percorrer os elementos (do tipo node ) até achar o seu caso correspondente
+Esdras Araújo
+19:26
+oxente
+Matheus Koller
+19:26
+Entendi
+Beatriz
+19:26
+agora eu entendi
+Jackson Teixeira
+19:26
+enntendi
+Lucas Zanata
+19:26
+peguei
+Matheus Koller
+19:27
+Agora faz sentido
+Ronan Gorski
+19:27
+Que confuso.
+Vinicius Tenchini
+19:27
+E se eu mandar um 10 hein professor
+Jackson Teixeira
+19:27
+cria outra arvore?
+Rachel Dantas
+19:27
+quebra nao ta tratando isso
+Rodrigo Santos
+19:27
+mesmo valor, nada nao
+Rachel Dantas
+19:27
+kkkkk
+Ronan Gorski
+19:27
+Não tem condição pra valor igual ainda
+Lucas Zanata
+19:27
+pc crasha
+Rachel Dantas
+19:27
+nao
+Ronan Gorski
+19:27
+Eita
+Jackson Teixeira
+19:28
+oshi
+Diego Souza
+19:28
+e se colocar outro 10?
+Vinicius Tenchini
+19:28
+Isso pq a lógica inicial chega se é menor
+Breno Ribeiro
+19:28
+root conta como nivel ?
+Vinicius Tenchini
+19:29
+Essa árvore ai até o momento tem 3 niveis
+Henrique Froener
+19:29
+10 é menor q 11
+Ronan Gorski
+19:29
+dez é menor que 11
+Gabriel Figueiredo
+19:29
+mas 10 é menor que 11
+Jackson Teixeira
+19:29
+mas nao seria o lado direito o amior
+maior
+Diego Souza
+19:29
+error 404
+ata
+Esdras Araújo
+19:30
+e se tu mete no left um <=  da problema?
+Vinicius Tenchini
+19:30
+É verdade que um conjunto de arvores na programação se chama floresta?
+Brabo
+Carolina Santos
+19:30
+kkkkkkk
+Jackson Teixeira
+19:30
+amazonia
+Diego Souza
+19:31
+Grande amazonia da programação
+Rachel Dantas
+19:31
+muito bom
+essa materia é bem interresante de ia porem bem complexa para implementar
+Vinicius Tenchini
+19:32
+Meu amigo chat gpt é bom nessa função de printar ai
+Jackson Teixeira
+19:32
+kkkk
+Luis Ramires
+19:33
+rodo liso
+slk
+Vinicius Tenchini
+19:33
+No caso não importaria a ordem de inserção o final seria o mesmo
+Gabriel Piangers
+19:34
+sacanagem o cara fazer isso com 3 linha de codigo
+Rachel Dantas
+19:34
+poderia explicar dnv
+nao peguei
+kkkk
+Esdras Araújo
+19:35
+te digo parabéns
+Luis Fernando
+19:35
+tree legal ;)
+Alef Gabriel Torres Strogulski
+19:35
+kkkkk
+Esdras Araújo
+19:36
+não
+Daniel Sales
+19:37
+saquei
+Vinicius Tenchini
+19:37
+s
+Daniel Machado
+19:40
+ele sempre vai mostra os valores em ordem crescente?
+Rachel Dantas
+19:41
+Pode enviar o codigo professor ?
+Jaques Antunes
+19:42
+class Node {
+    constructor(value) {
+        this.value = value
+        this.left = null
+        this.right = null
+    }
+}
+class BinaryTree {
+    constructor() {
+        this.root = null
+    }
+
+    insert(value) {
+        let newNode = new Node(value)
+
+        if(this.root == null) {
+            this.root = newNode
+            return
+        }
+
+        this.insertNode(this.root, newNode)
+    }
+insertNode(currentNode, newNode) {
+        if(newNode.value < currentNode.value) {
+            if(currentNode.left === null) {
+                currentNode.left = newNode
+            } else {
+                this.insertNode(currentNode.left, newNode)
+            }
+        } else {
+            if(currentNode.right === null) {
+                currentNode.right = newNode
+            } else {
+                this.insertNode(currentNode.right, newNode)
+            }
+        }
+    }
+inorderTraversal(node = this.root) {
+        if(node !== null) {
+            this.inorderTraversal(node.left)
+            console.log(node.value)
+            this.inorderTraversal(node.right)
+        }
+    }
+Rodrigo Santos
+19:42
+o console.log so ocorre apos o fim do empilhamento ?
+Vinicius Severo
+19:43
+professor roda no debug
+Vinicius Tenchini
+19:43
+O ponto principal das estruturas de dados é dominar listas
+Vinicius Severo
+19:43
+ataa
+Rodrigo Santos
+19:43
+nao vai
+Matheus Koller
+19:49
+Tenho um amigo em comum com o vinicius que fez assim
+Esdras Araújo
+19:49
+eu acho que agora ficou mais coisado
+Matheus Koller
+19:49
+printTree(node = this.root, prefix = "", isLeft = true) {
+        if (node !== null) {
+            if (node.right !== null) {
+                this.printTree(node.right, prefix + (isLeft ? "│   " : "    "), false);
+            }
+            console.log(prefix + (isLeft ? "└── " : "┌── ") + node.value);
+            if (node.left !== null) {
+                this.printTree(node.left, prefix + (isLeft ? "    " : "│   "), true);
+            }
+        }
+    }
+Gabriel Mincarone
+19:49
+Entendi melhor agora
+Vinicius Tenchini
+19:49
+Não aprendi a andar em 1 dia
+Vinicius Severo
+19:49
+kkkkkk
+Esdras Araújo
+19:49
+exato kkkkkkkk
+Rodrigo Lima
+19:49
+pq ele sempre verifica o da esquerda primeiro?
+vitor hugo fernandes
+19:49
+o osso é por isso no codigo kkkk, mas entender entendi
+Rachel Dantas
+19:49
+entendi o funcionamento, so nao as linhas kkkk
+Vinicius Tenchini
+19:50
+Entendemos as figurinhas
+Rodrigo Lima
+19:50
+entendi
+Lucas Zanata
+19:50
+decrescente faria pela direita
+Gabriel Piangers
+19:50
+Se quiser fazer decrescente é só ir pra direita depois da log e depois ir pra esquerda?
+Esdras Araújo
+19:50
+ai teria que ser if raiz > que,  Lucas
+Rodrigo Santos
+19:51
+eu tinha invertido mas o console log n ficou no meio, n funcionou como o esperado
+Vinicius Tenchini
+19:51
+No seu código do tigrinho deve usar bastante recursividade Esdras
+Esdras Araújo
+19:51
+ta ligado né, a casa sempre ganha
+Lucas Zanata
+19:52
+kkkkkk
+Gabriel Piangers
+19:52
+kkk
+Vinicius Tenchini
+19:52
+sim
+Rachel Dantas
+19:52
+sim
+Vinicius Tenchini
+19:52
+Da mesma forma se for decrescente
+Esdras Araújo
+19:53
+tem problemas em fazer isso?
+Vinicius Tenchini
+19:53
+Conceito de árvore balanceada é diferente de árvore perfeitamente balanceada?
+Sim
+Rachel Dantas
+19:53
+isso seria feito com recursividade tambem ?
+Lucas Zanata
+19:54
+bahh
+Rachel Dantas
+19:56
+simm
+Vinicius Tenchini
+19:56
+faltou logar
+Rodrigo Santos
+19:56
+falta o console.log
+Lucas Arend Maciel
+19:58
+minha internet n ta lgl hj, caindo mt
+Vinicius Tenchini
+19:58
+Esse código ai foi bem de boa de entender
+do search
+Rachel Dantas
+19:58
+sim
+Lucas Zanata
+19:58
+vddd
+Daniel Sales
+19:59
+também achei
+Esdras Araújo
+19:59
+depois tu manda tudão desse código no chat
+Lucas Zanata
+19:59
+kkkkkk
+Vinicius Tenchini
+19:59
+Ai esdras quem te permitiu colocar essa foto de galã ai no teu meet?
+Esdras Araújo
+19:59
+oxente mala
+Jaques Antunes
+19:59
+search(value, node = this.root) {
+        if(node === null) return false
+
+        if(value === node.value) return true
+
+        if(value < node.value) {
+            return this.search(value, node.left)
+        } else{
+            return this.search(value, node.right)
+        }   
+    }
+Esdras Araújo
+20:00
+kkkkkkk
+Vinicius Tenchini
+20:00
+cortar pela metade
+Laura Narciso Peixoto
+20:00
+é aquela que corta?
+Gabriel Figueiredo
+20:00
+você sempre olha pra metade do array e vai cortando
+Rachel Dantas
+20:00
+busca os dois lados ao mesmo tempo ?
+Daniel Machado
+20:00
+vai dividindo a lista no meio
+Alef Gabriel Torres Strogulski
+20:00
+verifica se o valor é < ou > e dividir
+Rachel Dantas
+20:00
+chutei lkk
+Ronan Gorski
+20:00
+Ele pega o valor e compara com o meio dos valores
+Vinicius Tenchini
+20:00
+Acho que é um dos primeiros exemplos do entendendo algoritmos
+Isso
+Rachel Dantas
+20:00
+hmmmmm vdd
+li  isso hoje
+Rodrigo Santos
+20:01
+depende
+Vinicius Tenchini
+20:01
+Ai seria um O(n)
+Vinicius Severo
+20:01
+bastante
+Esdras Araújo
+20:02
+vai abrindo metade da metade da metade
+Rachel Dantas
+20:02
+Simmm, esse é otimo
+Alef Gabriel Torres Strogulski
+20:03
+mas tem q ta ordenada
+Rachel Dantas
+20:03
+sim
+Esdras Araújo
+20:04
+sim
+Rachel Dantas
+20:04
+sim
+Joao Victor Neves Campos de Jesus
+20:04
+sim
+Rachel Dantas
+20:04
+sim
+Vinicius Tenchini
+20:05
+Professor, seria legal criar uma variável pra contar os passos
+Esdras Araújo
+20:05
+precisa ordenar antes
+Vinicius Tenchini
+20:08
+function binarySearch(nums, target) {
+    let left = 0
+    let right = nums.length - 1
+    let steps = 0
+    while (left <= right) {
+        steps += 1
+        mid = Math.ceil((left + right) / 2)
+        if (nums[mid] > target) {
+            right = mid - 1
+        } else if (nums[mid] < target) {
+            left = mid + 1
+        } else {
+            console.log('steps: ', steps)
+            return mid
+        }
+    }
+
+    return -1
+}
+Eu fiz assim pra ver os steps
+Alef Gabriel Torres Strogulski
+20:11
+muito loko
+Ronan Gorski
+20:11
+Pode copiar aqui o código?
+Esdras Araújo
+20:11
+a pessoa vai pegando né
+Jaques Antunes
+20:12
+function binarySearch(arr, target) {
+    let left = 0
+    let right = arr.length - 1
+
+    while (left <= right) {
+        let mid = Math.floor((left + right)/2)
+
+        if(arr[mid] === target) {
+            return mid
+        } else if(arr[mid] < target) {
+            left = mid + 1
+        } else {
+            right = mid - 1
+        }
+    }
+
+    return -1
+}
+Lucas Arend Maciel
+20:12
+Curti mt as aulas
+Rachel Dantas
+20:12
+Foi exelente professor, obrigada pela paciencia
+Bianca Santos
+20:13
+foram muito boas!
+Vinicius Severo
+20:13
+kkkkkk
+Gabriel Mincarone
+20:13
+Se eu entendi, é que as aulas foram ótimas hehehehe
+Rodrigo Lima
+20:13
+Aulas excelentes sensei
+Vinicius Severo
+20:13
+pulando os golpe o esdras
+Diego Souza
+20:13
+oque pegou no começo foi a recursividade mas depois de ver ela detalhada deu para entender
+Vinicius Severo
+20:13
+kkkkkkk
+Beatriz
+20:13
+sensacional!
+Dayane Rodrigues
+20:13
+foram muito boas prof! vou revisar tudinho!
+Vinicius Tenchini
+20:13
+Falar nisso o Imortal tá empatando em casa com 1 a mais com o time que eu nunca vi na vida
+Beatriz
+20:13
+obrigada professor
+Leandro Farias
+20:13
+Muitoo bom, valeu Professor 👋🏼
+Rachel Dantas
+20:13
+Bom final de semana professor
+Luis Fernando
+20:13
+OBrigado PRof
+Valter F.
+20:13
+Idem
+Esdras Araújo
+20:13
+o front tbm é contigo?
+Verônica Oliveira
+20:13
+Boa noite
+Valter F.
+20:13
+Abraço
+Diego Souza
+20:13
+obrigado pela aula professor
+Luis Fernando
+20:13
+bom final de semana pra todos
+Henrique Froener
+20:13
+Boa noite!
+Breno Ribeiro
+20:13
+Sábado cancelado ?
+Beatriz
+20:13
+boa noiteee
+Valter F.
+20:13
+Até mais
+Jackson Teixeira
+20:13
+valeuuu prof
+Daniel Machado
+20:13
+vlw! boa noite
+vitor hugo fernandes
+20:13
+feito professor!! até
+João Pedro Govaski Joras Ribeiro
+20:13
+boa noite
+Leticia Melo
+20:13
+Valeu prof
+Claudio Vargas
+20:13
+boa noite
+Tiago Torres
+20:13
+valeuu
+Rachel Dantas
+20:13
+Git eu acho pior lkkkk
+Jackson Teixeira
+20:13
+boa noite
+Carlos Eduardo Gonzaga
+20:13
+abç
+Lucas Arend Maciel
+20:13
+Vlw professor
+Eduardo Souza
+20:13
+Muito obrigado!
+Lucas Arend Maciel
+20:13
+Boa noite
+Jackson Teixeira
+20:13
+quero o front
+Rodrigo Santos
+20:13
+boa noite
+Valter F.
+20:13
+kkkkkkkk
+Guilherme Santos
+20:13
+vlw sor, boa noite!
+Laura Narciso Peixoto
+20:13
+Boa noitee
+Beatriz
+20:13
+kkkkkkkkkkkkkkk
+Maria Eduarda Coelho
+20:13
+kkkkk
+Luis Fernando
+20:13
+ótimo
+Lucas Arend Maciel
+20:13
+Show
+Esdras Araújo
+20:13
+é bom pow, é bom
+Patrícia Paes
+20:13
+sabado terá aula?
+Jackson Teixeira
+20:14
+kkkkkk
+Esdras Araújo
+20:14
+tenha calma moreno
+Rachel Dantas
+20:14
+Que otimo professor
+Vinicius Severo
+20:14
+professor, qual modulo q tu acha ser o mais dificil?
+Luis Fernando
+20:14
+muito bom
+Vinicius Tenchini
+20:14
+O próxmo
+Diego Souza
+20:14
+sabado que vem somente dia 07/06
+Carlos Eduardo Gonzaga
+20:14
+o último
+Valter F.
+20:14
+Java
+Vinicius Tenchini
+20:14
+É Sempre o próximo
+Rodrigo Lima
+20:14
+a aula do sábado vai ser de front ja?
+Valter F.
+20:14
+Front mamão com açucar
+Jackson Teixeira
+20:14
+quero so front kkk
+Rachel Dantas
+20:14
+a aula de sabado vai ser um resumao ne
+Maria Eduarda Coelho
+20:14
+ainda bem, vou ter q rever algumas aulas, preciso de tempo kk
+Dayane Rodrigues
+20:14
+bom find, gente , aproveitar esse momento para refazer esses algoritmos, são complicados para escrever
+Valter F.
+20:14
+Eu cheguei ver até arvoré, mas não nessa profundidade
+Luis Fernando
+20:14
+nunca vi estrutura de dados, vou ter que comer muito arroz com feijão.
+Rodrigo Lima
+20:15
+na faculdade foi só java e bem fraco e confuso
+Vinicius Tenchini
+20:15
+Professor, sendo bem sincero. Não tenho muita vontade de trabalhar com front, mas parece que hoje em dia tá impossível se manter só back ou front, todo mundo quer o pato
+Vinicius Tenchini
+20:16
+sim sim, to dizendo em me especializar mesmo
+Dayane Rodrigues
+20:16
+conhecimento é sempre bom
+Jackson Teixeira
+20:16
+eu ja quero o front
+Esdras Araújo
+20:16
+tenchini não gosta de cores
+Leandro Farias
+20:16
+Para mim o front é tranquilo por já ter estudado mais, agora o backend osso
+Vinicius Severo
+20:16
+buenas noite professor
+Breno Ribeiro
+20:16
+centralizar divs
+Ronan Gorski
+20:16
+Boa noite.
+Rachel Dantas
+20:16
+Boa noite
+Vinicius Tenchini
+20:16
+sou daltonico esdras
+Luis Fernando
+20:17
+Boa noite gente
+William José
+20:17
+boa noite
+Welington Júlio Dias Rodrigues
+20:20
+Muito obrigado!
+Vous
+21:15
+boanoite
