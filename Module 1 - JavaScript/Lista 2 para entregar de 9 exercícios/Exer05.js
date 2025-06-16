@@ -23,7 +23,7 @@ function HorseWithNoName(name) {
   console.log(`Campeão, ${name}!`)
 }
 
-const debouncedHello = debounce(HorseWithNoName, 1000)
+const debouncedHello = debounce(HorseWithNoName, 2000)
 
 debouncedHello("Tráfico")
 debouncedHello("Panther")

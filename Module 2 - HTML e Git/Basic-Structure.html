@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="Desenvolvimento Web, HTML, CSS, Javascript">
+    <meta name="Author" content="Eu mesmo">
+    <meta name="description" content="Esse é um site meramente ilustrativo.">
+    <title>Aula 01</title>
+    <style>
+        /*teste*/ 
+        /* <!-- Não comentáario --> */
+        a {
+            font-weight: bold;
+            color: green;
+            border: 2px dashed salmon;
+        }
+
+        p {
+            background-color: #c3c3c3;
+            color: blue;
+        }
+
+        table {
+            border: 1px solid;
+        }
+
+        th, td {
+            border: 1px solid;
+            background-color: bisque;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="home.html">Home</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+        <h1>Aprendendo HTML na prática</h1>
+        <h2>Aprendendo HTML na prática</h2>
+        <h3>Aprendendo HTML na prática</h3>
+        <h4>Aprendendo HTML na prática</h4>
+        <h5>Aprendendo HTML na prática</h5>
+        <h6>Aprendendo HTML na prática</h6>
+        <h7>Aprendendo HTML na prática</h7>
+    </header>
+
+    <hr>
+
+    <section>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia unde eum asperiores sunt temporibus, nobis libero molestias totam aspernatur error, enim praesentium? Id nemo deleniti incidunt laboriosam suscipit, voluptate quasi.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia unde eum asperiores sunt temporibus, nobis libero molestias totam aspernatur error, enim praesentium? Id nemo deleniti incidunt laboriosam suscipit, voluptate quasi.</p>
+    </section>
+
+    <hr>
+
+    <section>
+        <p>Veja a sigla <abbr title="Susepe Único Saúde">SUS</abbr></p>
+        <blockquote cite="https://developer.mozilla.org">A serviço da comunidade.</blockquote>
+        <p>O grande dia de 20 de agosto, segundo <cite>John Dennis</cite></p>
+        <p>Como disse Albert Einstein: <q>Nada na internet é verdade.</q></p>
+        <p>Por que D'us odeio o <b>Vascu</b>?</p>
+        <p>Comodoro Rivadavia é um grande <em>argentino</em>.</p>
+        <p>Comodoro Rivadavia é uma grande <i>cidade argentina</i>.</p>
+        <p>O <u>underline é assim</u>, já o suscrito, <s>é assim</s>.</p>
+    </section>
+
+    <section>
+        <hr>
+        <p> espaço</p>
+        <p> espaço Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis inventore ad cupiditate nisi aliquid aliquam porro officiis consectetur amet possimus aut dicta unde, animi exercitationem voluptatem dolore laborum iste. Necessitatibus.</p>
+    </section>
+
+    <section>
+        <h2>Catálogo de Produtos</h2>
+        <table>
+            <tr>
+                <th>Produto</th>
+                <th>Descrição</th>
+                <th>Preço</th>
+            </tr>
+            <tr>
+                <td>Smartphone</td>
+                <td>Tela AMOLED 6"</td>
+                <td>R$ 1.000</td>
+            </tr>
+            <tr>
+                <td>Câmera DSLR</td>
+                <td>24MP com lente 18-55mm</td>
+                <td>R$ 1.500</td>
+            </tr>
+            <tr>
+                <td>Playstation 5</td>
+                <td>Console do lá ele</td>
+                <td>R$ 5.000</td>
+            </tr>
+            <tr>
+                <td colspan="3" style="text-align: right">Total: R$7.000</td></tr>
+        </table>
+    </section>
+
+    <hr>
+
+<section>
+  <h2>Registro do Usuário</h2>
+  <form action="/submit" method="post">
+    <!-- Nome -->
+    <label for="nome">Nome Completo:</label>
+    <input type="text" id="senha" name="senha" required>
+    <br><br>
+
+    <!-- Senha -->
+    <label for="senha">Senha:</label>
+    <input type="password" id="senha" name="senha" required>
+    <br><br>
+
+    <!-- E-mail -->
+    <label for="email">E-mail:</label>
+    <input type="email" id="email" name="email" required>
+    <br><br>
+
+    <!-- CPF -->
+    <label for="cpf">CPF:</label>
+    <input type="text" id="cpf" name="cpf" pattern="\d{3}\.\d{3}\.\d{3}-\d{2}" placeholder="000.000.000-00" required>
+    <br><br>
+
+    <!-- Cidade -->
+    <label for="cidade">Cidade:</label>
+    <input type="text" id="cidade" name="cidade" required>
+    <br><br>
+
+    <!-- Estado -->
+    <label for="estado">Estado:</label>
+    <select id="estado" name="estado" required>
+      <option value="">Selecione</option>
+      <option value="SP">SP</option>
+      <option value="RJ">RJ</option>
+      <option value="MG">MG</option>
+      <option value="RS">RS</option>
+      <option value="BA">BA</option>
+      <!-- Adicione mais estados conforme necessário -->
+    </select>
+    <br><br>
+
+    <!-- Data de nascimento -->
+    <label for="data-nascimento">Data de Nascimento:</label>
+    <input type="date" id="data-nascimento" name="data-nascimento" required>
+    <br><br>
+
+    <!-- Telefone -->
+    <label for="telefone">Telefone:</label>
+    <input type="tel" id="telefone" name="telefone" placeholder="(00) 00000-0000" required>
+    <br><br>
+
+    <!-- Sexo -->
+    <label for="sexo">Sexo:</label>
+    <select id="sexo" name="sexo" required>
+      <option value="">Selecione</option>
+      <option value="masculino">Masculino</option>
+      <option value="feminino">Feminino</option>
+      <option value="outro">Outro</option>
+      <option value="nao-dizer">Prefiro não dizer</option>
+    </select>
+    <br><br>
+
+    <!-- Termos -->
+    <label>
+      <input type="checkbox" name="termos" required>
+      Aceito os termos e condições
+    </label>
+    <br><br>
+
+    <!-- Botão de envio -->
+    <button type="submit">Registrar</button>
+  </form>
+</section>
+
+
+    <hr>
+
+    <footer>
+        &ltDesenvolvido para web&gt
+        <p>Desenvolvido pr Bruni Giori &reg; 2025</p>
+    </footer>
+
+</body>
+</html>
+
+<!-- Comentario em HTML: este é um comentário -->
