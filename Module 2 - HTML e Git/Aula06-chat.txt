@@ -1,0 +1,615 @@
+Vous
+18:55
+boa noite
+Vous
+19:48
+Belo
+Lucas Arend Maciel
+19:48
+quem ta travado no ultimo experimenta, usar 
+flex-wrap: wrap-reverse;
+flex-direction: column-reverse;
+talvez ja ajude a clarear a resposta
+Joao Paulo Resende Costa
+19:48
+grande blue pen farmando aura
+Helen Santos
+19:48
+Já iria falar o da caneta azul também kakaka
+Wesley Campos
+19:48
+blue pen kkkkkk
+Vinicius Severo
+19:48
+kkkkkkkkkkkkkkkk
+Lucas Henry Martins Costa
+19:48
+rogerio skylab
+Wesley Campos
+19:48
+skylab genio
+Lucas V. Ferreira
+19:48
+cantor Diomar
+levi carlos
+19:48
+É o do solta a carta
+Wesley Campos
+19:48
+caneta azul kkkk
+Henrique Froener
+19:48
+kkkkk
+Ana
+19:48
+akkakakkakakakakakakkaka
+Rachel Dantas
+19:48
+akkaka
+Jackson Teixeira
+19:48
+marrone do bruno e morrone
+Luis Fernando
+19:49
+Carreira Internacional do MANÉ GOMES
+Breno Ribeiro
+19:49
+vini jr
+Jackson Teixeira
+19:49
+fiuk
+Wesley Campos
+19:49
+o roberto justus kkkkkkkkkkkk
+Breno Ribeiro
+19:50
+ele canta aquela musica ela é uma boa menina
+kkkk
+Helen Santos
+19:50
+Silvio Santos
+Lucas Arend Maciel
+19:50
+sim
+Gabriel Mincarone
+19:50
+Sim
+Vinicius Severo
+19:50
+simm
+Helen Santos
+19:50
+Ele cantava às vezes
+Rachel Dantas
+19:50
+SIM
+Carlos Eduardo Gonzaga
+19:50
+sim
+Ronan Gorski
+19:50
+maoe
+Joao Paulo Resende Costa
+19:51
+cara essa 24 n da pq o seletor é o mesmo
+Breno Ribeiro
+19:51
+ivo holanda fez 90 anos ontem
+Pedro Ferreira
+19:51
+Nossa, é muito bom
+levi carlos
+19:51
+Vai ter que imitar
+Breno Ribeiro
+19:51
+kkkkkkk
+Ana
+19:51
+mano
+Helen Santos
+19:51
+kakakakakaa
+Dayane Rodrigues
+19:51
+kkkkkk
+Luan Nunes
+19:51
+kkkkkkkkkkkkkkkkkkkkkk
+Beatriz Teles
+19:51
+kkkkkkkkkkkkkkk
+Lucas Zanata
+19:51
+eusei tbm
+Fabio Burghausen
+19:51
+uhsuashushauhsuhuahs
+Vous
+19:51
+kkkkk
+João Marcelo Barros Baraldi
+19:51
+KKKKKKKKK
+Lucas Zanata
+19:51
+kkkkkkkkkk
+Oseias Lissak
+19:51
+kkkkkk
+Lucas Arend Maciel
+19:51
+kkkkkkkkkkk
+levi carlos
+19:51
+Hahahahahahaahaha
+Lazaro Kaua
+19:51
+Kkkkkkkkkk
+Carlos Eduardo Gonzaga
+19:51
+kkkkkkkkkk
+Ana
+19:51
+igualzinho
+Lucas Arend Maciel
+19:51
+mt bom
+Ronan Gorski
+19:51
+kkkkkkkkkkkkk
+Wesley Campos
+19:51
+a gente kkkkkkkk
+Gabriel Mincarone
+19:51
+Bah, nem deixou a gente se preparar hahahah
+Luan Nunes
+19:51
+EOQ KKKKKKKKKKKK
+Enzo Grigol
+19:51
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+Henrique Froener
+19:51
+ehuheuehuuaeheuhe
+Diego Souza
+19:51
+me veio lembranças boas slc
+Vous
+19:51
+kkkkkkkkkkkkkkkkkkkkkkk
+Emilly Ramalho
+19:51
+kkkkkkkkkkkkkk
+Erick Wellington
+19:51
+consegui passar do ultimo kkkkkk
+vitor hugo fernandes
+19:51
+o cara é o dublador, não é possível
+kkkkkkkkkkkk
+enzo rocha
+19:51
+ó as ideia kkkkkkk
+Wesley Campos
+19:51
+cade os esdras numa hora dessas kkkkkkkkkkkkkkkkk
+Lucas Zanata
+19:51
+vamos fazer o imao do jorel brigando com pato donald
+Joao Paulo Resende Costa
+19:52
+grande esdras no paraguai trazendo coisas ilicitas
+Helen Santos
+19:53
+Programa Silvio Santos (13/10/13) - Silvio canta para a plateia e diz que vai gravar CD
+
+https://www.youtube.com/watch?v=5ffrPtcW7CA
+Dahlin Pereira
+19:53
+Depois que finalizado, todos esses outros joguinhos são de CSS?
+Ronan Gorski
+19:54
+Eu cliquei no grid garden e é de css também
+Wesley Campos
+19:54
+24 foi , gloria
+Ronan Gorski
+19:54
+kkkkkk
+João Pedro Govaski Joras Ribeiro
+19:56
+align-content
+Rachel Dantas
+19:56
+align-content: space-between;
+Joao Paulo Resende Costa
+19:56
+kkkkkkkkkkkkkkkk
+Jéssica Sobreira
+19:56
+flex-flow: column-reverse wrap-reverse;
+Leandro Farias
+19:56
+column-reverse
+Lucas Arend Maciel
+19:56
+aqui eu usei align-content: space-between;
+Rachel Dantas
+19:56
+align-content: space-between;
+Gabriel Mincarone
+19:57
+Coloquei algo a mais que não precisava heheheh
+Emilly Ramalho
+19:57
+simm
+Lucas Arend Maciel
+19:57
+sim
+Gabriel Mincarone
+19:57
+Mas funcionou kkk
+Foi isso, verdade
+Denize Mansoni Cordova
+19:58
+na 20
+Joao Paulo Resende Costa
+19:58
+tem outro joguinho css Scoops
+Luis Fernando
+19:59
+flex-flow: column-reverse wrap; 
+
+tava colocando isso! Nunca q iria funcionar :/
+Dahlin Pereira
+20:00
+Essa aula tá padrão ouro, agora todas as aulas vão ter que ser assim
+Luis Fernando
+20:00
+isso msm Prof.
+Joao Paulo Resende Costa
+20:00
+aula é pura dopamina
+Erick Wellington
+20:01
+é pra usar o excalidraw?
+meu pc parece que não gosta dele, quando eu preciso usar é uma demora kkkkk
+Luis Fernando
+20:02
+nao
+Lucas Arend Maciel
+20:02
+nop
+Erick Wellington
+20:02
+nao
+Vous
+20:02
+n
+Henrique Froener
+20:02
+vendo o sapo
+Ronan Gorski
+20:02
+Está nos sapos ainda
+Rachel Dantas
+20:02
+nn
+Yasmin
+20:02
+vendo os sapos
+Erick Wellington
+20:02
+só os frogs
+Vous
+20:03
+s
+Diego Souza
+20:03
+s
+Beatriz Teles
+20:03
+sim
+Jaques Antunes
+20:03
+Exercício: Página com Menu e Cartões usando Flexbox
+
+Objetivo:
+
+Criar uma página web com um menu de navegação no topo e uma seção com três cartões de conteúdo, utilizando Flexbox para o layout e responsividade.
+
+Instruções:
+
+- Crie um menu horizontal com:
+
+- Um logotipo à esquerda.
+
+- Quatro links à direita.
+
+- Abaixo do menu, crie uma área com 3 cartões dispostos lado a lado.
+
+- Use Flexbox para alinhar e distribuir os elementos.
+Erick Wellington
+20:03
+sim
+Rachel Dantas
+20:04
+eu fiz so um cartaozinho
+com um produto da ultima aula
+simm
+Enzo Grigol
+20:05
+ta absurdo de frio, e o vento ta passando pela fresta da janelakkkkkkkkkk
+Ana
+20:05
+ficou lindo
+Lucas Arend Maciel
+20:05
+ficou show
+Breno Ribeiro
+20:06
+barato
+Gabriel Mincarone
+20:06
+Tá bom o preço
+Breno Ribeiro
+20:06
+iphone xx
+Luis Fernando
+20:06
+parabéns Rachel
+Yasmin
+20:06
+ficou chique
+Dahlin Pereira
+20:06
+XX, veio do Perigo
+Ficou show!
+Rachel Dantas
+20:06
+Obrigadaaa!
+Luis Fernando
+20:06
+no caso é para colocar 3 cards desse que a Rachel mostrou Prof ?
+blz
+Yasmin
+20:07
+eeu
+Gabriel Mincarone
+20:07
+eu
+Lucas Zanata
+20:07
+eu
+Fabio Burghausen
+20:07
+eu
+Jonatas Pereira
+20:07
+Eu
+Gabriel Mincarone
+20:07
+Hoje a tarde estava praticando com imagens e era isso que me faltava hehehehe
+Breno Ribeiro
+20:09
+é algo obsoleto ja
+enzo rocha
+20:09
+primeira vez que vi css foi com float, melhor que as técnicas novas (ironia).
+Rachel Dantas
+20:10
+professor se eu colocar div dentro de uma tag semantica , o codigo deixa de ser semantico ?
+enzo rocha
+20:10
+eu iniciei a faculdade, 1 mês depois chegou a pandemia...
+Rachel Dantas
+20:11
+entendi, obrigada!
+Denize Mansoni Cordova
+20:12
+terminei o jogo do sapo
+hahahah
+12h depois
+Vinicius Severo
+20:12
+vc acha interessante trocar ADS por engenharia de software?
+enzo rocha
+20:13
+hoje eu teria cursado ciência da computação (fiz jogos digitais)
+Dayane Rodrigues
+20:13
+Me formo esse ano! <3
+enzo rocha
+20:14
+kkkkkkkkkkkkkkkkkkkkkkk
+Gabriel Mincarone
+20:14
+Eu iniciei engenharia de software a 2 meses porque me pareceu que era mais o que eu estava buscando.
+Lucas V. Ferreira
+20:15
+naquela facul que falamos sobre, achei esse ''Engenharia de Dados e Inteligência Artificia'' o mais interessante
+Lucas V. Ferreira
+20:16
+grade: Inteligência Artificial, Machine Learning, Algoritmos, Clusterização, Python, MongoDB, Pandas, SQL, NoSQL, MC, Big Data, Hadoop, Apache Spark, CSS3, HTML5, Java, Scrum, React, C#, .NET
+Vinicius Severo
+20:16
+estou fazendo ADS já no segundo semestre, quando terminasse iria fazer uma pós. Mas agr comecei a me perguntar se não mudo para Engenharia de Software
+Enzo Grigol
+20:17
+tem que ver bem a facul de tecnologo que vai fazer, ainda mais se for EAD, estou no segundo ano de ADS na uniritter, e é muito fraca, os conteudos sao aulas gravadas e pdf, as vezes tem aula aos sabados mas nao curti. Vou esperar me formar e fazer outra coisa
+Dahlin Pereira
+20:17
+Meu plano pra transição de carreira é fazer ADS, pós em Data Science e mestrado em CC com foco em ML/IA
+Dayane Rodrigues
+20:18
+Fale mais sobre sua pesquisa prof?
+Vinicius Severo
+20:18
+qual universidade adotou?
+Enzo Grigol
+20:19
+concordo professor, quando eu me inscrevi no curso tinha outra mentalidade, no futuro pretedo fazer presencial
+enzo rocha
+20:19
+Estou fazendo um MBA em Engenharia de Software para seguir nessa direção do full-stack da vida
+Gabriel Mincarone
+20:19
+A uniasselvi é assim também, foi um dos motivos por ter escolhido ela.
+Ana
+20:19
+prof, sabe algo sobre essa parte de ser dev no exterior?
+Wesley Campos
+20:19
+oq é mba
+Luis Ramires
+20:19
+oque e MBA
+Rômulo Góes
+20:19
+Professor estou terminando Lic. em Computação e queria fazer depois ADS. O que Achas?
+enzo rocha
+20:20
+tô fazendo na usp professor
+isso
+Dayane Rodrigues
+20:21
+e o curso de história prof? terminou? Eu sou antropóloga e me formo esse ano em ADS
+Lucas Arend Maciel
+20:22
+Fiz SI, senti que o curso atira para muitos lados mas não se aprofunda muito em algo especifico
+Rômulo Góes
+20:22
+Top. Passei para ser monitor de algoritmos na minha Universidade prof. Top. Estou felizzzz
+Lucas Arend Maciel
+20:22
+isso
+Enzo Grigol
+20:24
+medicina
+enzo rocha
+20:24
+Gastronomia
+Enzo Grigol
+20:25
+neurocientista
+Rodrigo Lima
+20:25
+UX/UI
+Ana
+20:25
+trabalhar algo com arte
+Lucas Henry Martins Costa
+20:25
+viver na roça
+Dahlin Pereira
+20:25
+Fisiologista esportivo
+Emilly Ramalho
+20:25
+turismo
+Luis Ramires
+20:25
+herdeiro
+Gabriel Figueiredo
+20:25
+no mundo perfeito eu nem trabalharia
+Jéssica Sobreira
+20:25
+Dev viajando o mundo
+Luan Nunes
+20:25
+Cursaria Filosofia e iria pra grandes debates sobre a vida, a verdade e o universo kkk
+Lucas Arend Maciel
+20:25
+Eu gostaria de trabalhar com criação de tecnologias de acessibilidade
+levi carlos
+20:25
+Eu tbm pensava o msm ate ir pra campus party
+Bianca Santos
+20:25
+arquitetura ou artes
+levi carlos
+20:25
+E tinha mt mulher nos times de robótica
+Mt massa
+Wesley Campos
+20:26
+minha segunda opção de curso foi produção fonografica, inclusive passei, mas preferi alinhar div
+Gabryella Maria Milagres Moreira
+20:26
+Criar um eu robo
+Ana
+20:26
+luiz sábio demais
+Gabriel Mincarone
+20:26
+Baita
+Rômulo Góes
+20:26
+Eu ia ser músico. Na verdade já sou. Só falta ganhar o dinheiro. kkkkkkkk
+Wesley Campos
+20:26
+e nao sei(zoeira
+Luis Fernando
+20:26
+Arquitetura tbm
+levi carlos
+20:26
+Eu quero mesmo é ciência da computação ou mecatrônica, gosto de hardware Hacking
+Enzo Grigol
+20:26
+se tudo der pelomenos uns 70% certo na minha vida eu vou trampar de dev e fazer uma facul de psicologia pra no futuro virar neurocientista, e provavelmente juntar as duas areas
+Thiago Castanho
+20:26
+faria uma trip de skate
+Rodrigo Lima
+20:26
+professor como eu alinho o aside na parte superior da página?
+Lucas Henry Martins Costa
+20:26
+vou indo professor, ate a proxima!!
+Luis Fernando
+20:26
+peguei o ultimo exercicio e complementei e consegui concluir Prof o exercicio.
+Denize Mansoni Cordova
+20:26
+eu gostaria de ser piloto de testes
+Ana
+20:27
+é 😔KKKKKKKKKKK
+Rachel Dantas
+20:28
+estoura uma musica igual caneta azul
+muitos apreciados
+Dayane Rodrigues
+20:28
+gostaria de trabalhar com pesquisa
+Rodrigo Lima
+20:29
+agora consegui, achei o erro
+Rachel Dantas
+20:29
+meu sonho era estudar psicologia no caso neurociencia, o cerebro é uma area muito interresante, mas nao para sessoes com pessoas, em 2018 ganhei uma bolsa 5% mas nao deu para fazer
+Helen Santos
+20:29
+Tem algo a ver com maching learning?
+Rachel Dantas
+20:29
+50%
+Dahlin Pereira
+20:30
+Eu tive uma matéria de Bioinformática na faculdade de Biomedicina
+Ana
+20:30
+como envia essa tarefa? se não terminar
+Luis Fernando
+20:30
+terminei
+Ana
+20:30
+ok
+levi carlos
+20:30
+Flw prof vou ter que ir indo

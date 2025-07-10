@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Página de Demonstração</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    header {
+      background-color: #28a745;
+      padding: 20px;
+      text-align: center;
+      transition: background-color 0.3s;
+    }
+
+    header:hover {
+      background-color: #1e7e34;
+    }
+
+    nav ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    section {
+      padding: 20px;
+      text-align: center;
+    }
+
+    img {
+      height: 200px;
+      width: 250px;
+      border-radius: 80%;
+      margin: 10px;
+    }
+
+    footer {
+      background-color: orange;
+      padding: 20px;
+      text-align: center;
+      transition: background-color 0.3s;
+    }
+
+    footer:hover {
+      background-color: darkorange;
+    }
+
+    footer a {
+      color: black;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    iframe {
+      max-width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <nav>
+      <ul>
+        <li><a href="#galeria">Galeria</a></li>
+        <li><a href="#demonstracao">Demonstração</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="galeria">
+    <h2>Galeria</h2>
+    <img src="robot.jpg" alt="Imagem 1">
+    <img src="namos.jpg" alt="Imagem 2">
+  </section>
+
+  <section id="demonstracao">
+    <h2>Demonstração</h2>
+    <iframe width="480" height="320" src="https://www.youtube.com/embed/itnHteVlLIY" title="#MT180 - Finale nationale 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <p><a href="https://www.youtube.com/embed/itnHteVlLIY" target="_blank">Assista no YouTube</a></p>
+  </section>
+
+  <footer id="contato">
+    <p>Entre em contato:</p>
+    <ul style="list-style: none; padding: 0;">
+      <li><a href="mailto:exemplo@email.com">E-mail</a></li>
+      <li><a href="tel:+550000000000">Telefone</a></li>
+    </ul>
+  </footer>
+
+</body>
+</html>

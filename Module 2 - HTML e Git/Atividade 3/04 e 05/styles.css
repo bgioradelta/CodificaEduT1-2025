@@ -1,0 +1,55 @@
+/* Estilo geral */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+/* Header */
+header {
+  background-color: #3f51b5;
+  color: white;
+  padding: 20px;
+  margin: 15px;
+  border: 3px solid #2c387e;
+}
+
+/* Main */
+main {
+  background-color: #ffffff;
+  color: #333;
+  padding: 20px;
+  margin: 15px;
+  border: 3px dashed #888;
+}
+
+/* Footer */
+footer {
+  background-color: #263238;
+  color: #fff;
+  padding: 15px;
+  margin: 15px;
+  border: 3px dotted #444;
+  text-align: center;
+}
+
+/* Seletores e Propriedades */
+
+/* Estilo para todas as tags <h2> */
+h2 {
+  font-size: 1.8em;
+  text-decoration: underline;
+}
+
+/* Classe para destacar textos */
+.destaque {
+  font-style: italic;
+  background-color: #fcefcf;
+}
+
+/* ID para conteúdo importante */
+#importante {
+  border-top: 5px solid #c62828;
+  padding-top: 10px;
+}
+

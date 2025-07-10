@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Card de Produto</title>
+  <style>
+    body {
+      background-color: #ccc; /* Fundo da tela */
+      display: flex;
+      justify-content: flex-start; /* Alinha à esquerda */
+      align-items: center;
+      height: 40vh;
+      margin: 0;
+      padding-left: 20px; /* Pequeno afastamento da borda esquerda */
+    .card {
+      width: 200px;
+      box-sizing: border-box;
+      padding: 20px;
+      border: 2px solid #000;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      border-radius: 20px; /* Arredonda o card */
+      background-color: #f9f9f9; /* Tom esbranquiçado suave */
+    }
+
+    .card img {
+      position: relative;
+      max-width: 100%;
+      height: auto;
+      border-radius: 10%; /* Deixa a imagem circular */
+    }
+
+    .card img:hover {
+      transform: scale(1.1);
+    }
+    
+    .card:hover {
+      transform: scale(1.03);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    .nome {
+      font-weight: bold;
+      margin: 10px 0 5px;
+    }
+
+    .preco {
+      color: green;
+      margin-bottom: 10px;
+    }
+
+    .comprar {
+      margin-top: auto;
+      align-self: stretch;
+      padding: 8px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+
+    .comprar:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <img src="botafogo.webp" alt="Produto">
+    <div class="nome">Camisa do Fogão</div>
+    <div class="preco">R$ 99,99</div>
+    <button class="comprar">Comprar</button>
+  </div>
+
+</body>
+</html>
