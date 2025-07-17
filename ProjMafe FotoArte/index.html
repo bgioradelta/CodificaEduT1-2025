@@ -18,7 +18,15 @@
   <!-- Menu Principal -->
   <header class="main-header">
     <div class="logo">MAFÊ</div>
-    <nav class="nav-menu">
+
+    <!-- Botão Hamburger -->
+    <div class="hamburger" id="hamburger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+
+    <nav class="nav-menu" id="navMenu">
       <ul>
         <li><a href="#">COLEÇÃO</a></li>
         <li><a href="#">ARTISTAS</a></li>
@@ -26,26 +34,26 @@
         <li><a href="#">CONTATO</a></li>
       </ul>
     </nav>
+
     <div class="icons">
       <button title="Conta">👤</button>
       <button title="Buscar">🔍</button>
       <button title="Carrinho">🛍️</button>
     </div>
-  </header>
-
-  <!-- Título Central -->
-  <section class="section-title">
-    <div class="section-heading">
-      <p>MAFÊ BRANDRÃO</p>
-      <h1>FOTO ARTE</h1>
-      <div class="line"></div>
-    </div>
-  </section>
-
-
-  <!-- Filtros com busca -->
-  <section class="filters">
-    <input type="text" id="searchInput" placeholder="Buscar fotografias...">
+    </header>
+    
+    <!-- Título Central -->
+    <section class="section-title">
+      <div class="section-heading">
+        <p>MAFÊ BRANDRÃO</p>
+        <h1>FOTO ARTE</h1>
+        <div class="line"></div> <!-- Agora está abaixo do título -->
+      </div>
+    </section>
+    
+    <!-- Filtros com busca -->
+    <section class="filters">
+      <input type="text" id="searchInput" placeholder="Buscar fotografias...">
     <input type="number" id="minPrice" placeholder="Preço mínimo">
     <input type="number" id="maxPrice" placeholder="Preço máximo">
     <select id="colorFilter">

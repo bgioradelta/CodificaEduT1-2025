@@ -34,3 +34,13 @@ function filterGallery() {
 [searchInput, minPrice, maxPrice, colorFilter, themeFilter].forEach(el =>
   el.addEventListener("input", filterGallery)
 );
+
+// ===== MENU HAMBURGER =====
+const hamburger = document.getElementById("hamburger");
+const navMenu = document.getElementById("navMenu");
+
+hamburger.addEventListener("click", () => {
+  hamburger.classList.toggle("active");
+  navMenu.classList.toggle("show");
+});
+  
