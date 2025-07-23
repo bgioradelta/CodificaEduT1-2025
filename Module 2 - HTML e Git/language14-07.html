@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Word Transformation</title>
+</head>
+<body>
+  <h3>Enter words:</h3>
+  <input type="text" id="userInput" placeholder="Type words here">
+  <button onclick="transformWords()">Submit</button>
+  <p><strong>Result:</strong> <span id="result"></span></p>
+
+  <script>
+    function transformWords() {
+      const vowels = ['a', 'e', 'i', 'o', 'u', 'y', 'A', 'E', 'I', 'O', 'U', 'Y'];
+      const input = document.getElementById('userInput').value;
+      const words = input.split(/\s+/); // split by spaces
+      let transformedWords = words.map(word => {
+        let index = [...word].findIndex(letter => vowels.includes(letter));
+        if (index === -1) return word + "ay"; // No vowel, just append "ay"
+        let part1 = word.slice(0, index);
+        let part2 = word.slice(index);
+        return part2 + part1 + "ay";
+      });
+      document.getElementById('result').textContent = transformedWords.join(' ');
+    }
+  </script>
+</body>
+</html>

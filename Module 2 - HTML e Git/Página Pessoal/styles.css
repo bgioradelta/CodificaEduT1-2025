@@ -1,0 +1,105 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --cor-primaria: #0077cc;
+    --cor-secundaria: #f4f4f4;
+    --fonte-principal: 'Poppins', sans-serif;
+}
+
+body {
+    font-family: var(--fonte-principal);
+    background-color: var(--cor-secundaria);
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background: var(--cor-primaria);
+    color: white;
+}
+
+.foto-perfil {
+    width: 120px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    background: #fff;
+    list-style: none;
+}
+
+nav ul li {
+    margin: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: var(--cor-primaria);
+    padding: 8px 15px;
+    transition: background 0.3s;
+}
+
+nav ul li a:hover {
+    background: var(--cor-primaria);
+    color: #fff;
+    border-radius: 5px;
+}
+
+/* Layout principal com Flexbox */
+main {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Seções */
+section {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+/* Pseudo-elementos */
+section::before {
+    content: "★";
+    color: var(--cor-primaria);
+    margin-right: 5px;
+}
+
+/* Aside */
+aside {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    background: var(--cor-primaria);
+    color: #fff;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    main {
+        grid-template-columns: 1fr;
+    }
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+}
