@@ -12,6 +12,7 @@ Ver o arquivo 'App.jsx' na pasta 'src', entre outros.
 - **Tratamento de Erros & Loading:** Indicador de carregamento e mensagens de erro.
 
 ### Configuração da Chave da API
-A chave da API do TMDB é armazenada no arquivo `.env` na raiz do projeto:
+A chave da API do TMDB é armazenada no arquivo `.env` na raiz do projeto (mas eu deixei a minha original ali):
 
 ```env
+VITE_TMDB_API_KEY=SUA_CHAVE_AQUI
