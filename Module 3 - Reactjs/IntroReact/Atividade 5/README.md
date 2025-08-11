@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação React que consome a API do TMDB para permitir que usuários busquem filmes, visualizem detalhes e mantenham uma lista de favoritos.
 
+Ver o arquivo 'App.jsx' na pasta 'src', entre outros.
+
 ### Funcionalidades Implementadas
 - **Página de Busca:** Campo de texto para pesquisar filmes e exibir resultados com pôster, título e ano.
 - **Paginação:** Navegação entre páginas de resultados.
