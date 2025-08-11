@@ -1,5 +1,30 @@
 {
   "dependencies": {
-    "prompt-sync": "^4.2.0"
+    "prompt-sync": "^4.2.0",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "name": "t1-2025-codifica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgioradelta/CodificaEduT1-2025.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgioradelta/CodificaEduT1-2025/issues"
+  },
+  "homepage": "https://github.com/bgioradelta/CodificaEduT1-2025#readme",
+  "description": "",
+  "devDependencies": {
+    "webpack": "^5.101.0",
+    "webpack-cli": "^6.0.1",
+    "webpack-dev-server": "^5.2.2"
   }
 }
