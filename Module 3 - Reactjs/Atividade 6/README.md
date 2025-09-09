@@ -22,18 +22,18 @@ Construir uma tela de loja com:
 
 | Pasta                  | Técnica de CSS    | Observações                                                     |
 | ---------------------- | ----------------- | --------------------------------------------------------------- |
-| `01-css-global`        | CSS Global        | Todos os estilos aplicados globalmente via `global.css`.        |
-| `02-css-modules`       | CSS Modules       | Estilos isolados por componente, evitando conflitos globais.    |
-| `03-tailwind`          | Tailwind CSS      | Utiliza classes utilitárias para construir a interface.         |
-| `04-styled-components` | styled-components | CSS-in-JS com `ThemeProvider` e props dinâmicas para dark mode. |
+| `01-css-global`        | CSS Global        | Todos os estilos aplicados globalmente via `global.css`         |
+| `02-css-modules`       | CSS Modules       | Estilos isolados por componente, evitando conflitos globais     |
+| `03-tailwind`          | Tailwind CSS      | Utiliza classes utilitárias para construir a interface          |
+| `04-styled-components` | styled-components | CSS-in-JS com `ThemeProvider` e props dinâmicas para dark mode  |
 
-> Cada pasta é independente: você pode rodar cada versão separadamente.
+> Cada pasta é independente: você pode rodar cada versão separadamente
 
 ---
 
 ## 🚀 Como rodar qualquer versão
 
-1. Abra o terminal na pasta desejada, por exemplo `02-css-modules`.
+1. Abra o terminal na pasta desejada, por exemplo `02-css-modules`
 2. Instale dependências:
 
 ```bash
