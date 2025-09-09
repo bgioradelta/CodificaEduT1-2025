@@ -1,0 +1,45 @@
+@keyframes shimmer {
+  0% { background-position: 200% 0; }
+  100% { background-position: -200% 0; }
+}
+
+.card {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.media {
+  aspect-ratio: 1 / 1;
+  background: var(--skeleton);
+  background-size: 200% 100%;
+  animation: shimmer 1.2s infinite;
+}
+
+.body {
+  padding: var(--space-4);
+  display: grid;
+  gap: var(--space-3);
+}
+
+.line, .lineSm, .btn {
+  background: var(--skeleton);
+  background-size: 200% 100%;
+  animation: shimmer 1.2s infinite;
+  border-radius: 6px;
+}
+
+.line {
+  height: 18px;
+  width: 85%;
+}
+
+.lineSm {
+  height: 14px;
+  width: 30%;
+}
+
+.btn {
+  height: 40px;
+  border-radius: 10px;
+}
