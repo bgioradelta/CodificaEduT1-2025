@@ -39,7 +39,7 @@ export default function ProductCard({ product }) {
       <p style={{ fontWeight: "bold" }}>R$ {product.price}</p>
       <p>{"★".repeat(product.rating)}</p>
       {product.tag && <span>{product.tag}</span>}
-      <Button variant="solid">Adicionar</Button>
+      <Button $variant="outline">Adicionar</Button>
     </Card>
   );
 }

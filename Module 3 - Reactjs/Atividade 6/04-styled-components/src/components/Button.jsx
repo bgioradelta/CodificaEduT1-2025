@@ -18,12 +18,13 @@ const variants = {
   `,
 };
 
+// Usando $variant como transient prop
 export const Button = styled.button`
   border-radius: ${({ theme }) => theme.radius};
   padding: 0.5rem 1rem;
   font-weight: 600;
   cursor: pointer;
-  ${({ variant }) => variants[variant || "solid"]}
+  ${({ $variant }) => variants[$variant || "solid"]}
   &:disabled {
     opacity: 0.5;
     cursor: not-allowed;
