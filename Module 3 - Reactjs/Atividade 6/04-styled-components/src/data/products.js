@@ -1,3 +1,5 @@
+const img = (id) => `https://picsum.photos/seed/g${id}/400/400`;
+
 export const products = [
   {
     id: 1,
@@ -5,7 +7,7 @@ export const products = [
     price: 99.9,
     rating: 4,
     tag: "Novo",
-    image: "https://via.placeholder.com/300",
+    image: img(1),
   },
   {
     id: 2,
@@ -13,7 +15,7 @@ export const products = [
     price: 59.9,
     rating: 5,
     tag: "Promo",
-    image: "https://via.placeholder.com/300",
+    image: img(2),
   },
   {
     id: 3,
@@ -21,7 +23,7 @@ export const products = [
     price: 29.9,
     rating: 3,
     tag: "",
-    image: "https://via.placeholder.com/300",
+    image: img(3),
   },
   {
     id: 4,
@@ -29,7 +31,7 @@ export const products = [
     price: 120.0,
     rating: 5,
     tag: "Novo",
-    image: "https://via.placeholder.com/300",
+    image: img(4),
   },
   {
     id: 5,
@@ -37,7 +39,7 @@ export const products = [
     price: 75.0,
     rating: 4,
     tag: "",
-    image: "https://via.placeholder.com/300",
+    image: img(5),
   },
   {
     id: 6,
@@ -45,6 +47,6 @@ export const products = [
     price: 200.0,
     rating: 5,
     tag: "Promo",
-    image: "https://via.placeholder.com/300",
+    image: img(6),
   },
 ];
